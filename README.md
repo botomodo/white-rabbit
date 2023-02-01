@@ -19,7 +19,7 @@ Our vision is that Web3 adoption will come when anybody is able to launch Web3 p
 We aimed to deliver a Web3 platform where customers could launch their own dApp in 1 hour without code. 
 
 
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](images/image7:1.png "image_tooltip")
 
 
 All you need to do is these 3 steps:
