@@ -1,6 +1,6 @@
 ## White Rabbit
 
-White Rabbit is the open source Web3 platform designed for launching dApp without coding
+White Rabbit is an open source Web3 platform designed for launching dApps without coding
 
 
 ## 
@@ -10,31 +10,31 @@ White Rabbit is the open source Web3 platform designed for launching dApp withou
 
 ### Problem
 
-Current Web3 adoption too low because of **developer-oriented infrastructure** 
+Currently, Web3 adoption is too low because of **developer-oriented infrastructure** 
 
-In our vision, Web3 adoption will come when anybody can launch Web3 project **without code** 
+Our vision is that Web3 adoption will come when anybody is able to launch Web3 project **without code** 
 
 ### Product
 
-We aimed to deliver Web3 platform, where customers could launch own dApp in 1 hour without code. 
+We aimed to deliver a Web3 platform where customers could launch their own dApp in 1 hour without code. 
 
 
 ![alt_text](images/image7.png "image_tooltip")
 
 
-All what they need to do it’s make 3 steps:
+All you need to do is these 3 steps:
 
-Connect wallet - connect wallet to get private key and govern dApp, because White Rabbit is non-custodial;
+**Connect wallet.** Connect a wallet to get a private key and govern the dApp (White Rabbit is non-custodial);
 
-Choose Business model - choose use case for future dApp, White Rabbit delivers different use cases for Gated Access and Marketplace in our MVP;
+**Choose Business model.** Choose a use case for your future dApp(We deliver different use cases for Gated Access and Marketplace in our MVP);
 
-Customize template - customize design and identic for your future dApp.
+**Customize template.** Customize design and identity for your future dApp.
 
 
 ### Tech principles
 
 
-We make sure, that for wide Web3 adoption we should follow next principles in our actions:
+We believe that for wide Web3 adoption we should follow these principles in our actions:
 
 
 ![alt_text](images/image3.png "image_tooltip")
@@ -46,16 +46,16 @@ We make sure, that for wide Web3 adoption we should follow next principles in ou
 
 **Freemium** - we don’t charge any fee for launching on our platform
 
-**Non-custodial** - created projects is 100% governed by creator wallets after launch
+**Non-custodial** - projects are 100% governed by creator wallets after launch
 
 
 ### Audience
 
-Creators and Entrepreneurs are grouped in different market segments which can’t be claimed in the first iteration. We focused on two segments in our MVP:
+Creators and Entrepreneurs are grouped in different market segments which can’t be claimed in the first iteration. We focused two segments in our MVP:
 
 
 
-* Patreon bloggers which accept crypto
+* Patreon bloggers that accept crypto
 * Brands which launch NFT promo
 
 
@@ -75,11 +75,11 @@ Business model developed according to our principles:
 
 
 * White Rabbit doesn’t charge any fee for dApp launching;
-* dApp owner pay only infrastructure fee for hosting and transactions;
+* dApp owner pays only infrastructure fee for hosting and transactions;
 * dApp owner can buy additional services from Service partners;
 * Service partners share revenue with White Rabbit if they sell services through platform;
 * White Rabbit is financed by dev grants from infrastructure partners;
-* Infrastructure partners scale their ecosystems and get benefits from on-chain activity increasing.
+* Infrastructure partners scale their ecosystems and get benefits from on-chain activity increase.
 
 
 ### 
