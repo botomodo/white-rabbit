@@ -107,13 +107,13 @@ We looking for dev grant: [Contact](https://twitter.com/maxreformator)
 
 ### Team
 
-**Julia Shinkevich, CEO**
+**Julia Shinkevich, Growth Lead**
 
 9 years in communications and PR, ex-Head of Marketing of Micromobility and web3 startups
 
 **[Linkedin](https://www.linkedin.com/in/julia-shinkevich-a22021a3/)**
 
-**Max Slyzkoukh, CPO**
+**Max Slyzkoukh, Product Lead**
 
 6 years in digital transformation of procurements in 50+ leading private and state Ukrainian enterprises 
 
@@ -124,3 +124,4 @@ We looking for dev grant: [Contact](https://twitter.com/maxreformator)
 Software Engineer and Tech Lead with 7+ years experience in IT industry, ex-CTO at DEIP Creator Economy Protocol. 
 
 **[Linkedin](https://www.linkedin.com/in/yahor-tsaryk-92032a68/)**
+**[GitHub](https://github.com/yahortsaryk)**
